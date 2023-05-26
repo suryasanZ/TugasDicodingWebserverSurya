@@ -1,0 +1,6 @@
+firefox.settings.services.mozilla.com:HSTS	0	19503	1716643573001,1,0
+services.addons.mozilla.org:HSTS	0	19503	1716643689355,1,0
+incoming.telemetry.mozilla.org:HSTS	0	19503	1716643599175,1,0
+contile.services.mozilla.com:HSTS	0	19503	1716644740044,1,0
+aus5.mozilla.org:HSTS	0	19503	1716643844363,1,0
+www.google.com^firstPartyDomain=google-canonical.search.suggestions.mozilla:HSTS	0	19503	1716643543914,1,0
